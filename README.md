@@ -30,7 +30,7 @@ This project presents a financial performance dashboard built using Power BI to 
 - Clean and user-friendly layout
 
 ## 📷 Dashboard Preview
-![Dashboard](finance-dashboard.png)
+![Dashboard](finance-dashboard img.png)
 
 ## 📁 Files Included
 - Finance Dashboard.pbix
